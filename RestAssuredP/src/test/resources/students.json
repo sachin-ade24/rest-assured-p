@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sachin",
+      "location": "India",
+      "phone": 9977010199,
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kim",
+      "location": "China",
+      "phone": 9977670099,
+      "courses": [
+        "javascript",
+        "cypress"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "location": "US",
+      "phone": 9900667799,
+      "courses": [
+        "typescript",
+        "playwright"
+      ]
+    },
+    {
+      "id": "7222",
+      "courses": [
+        "PowerBi",
+        "ETL"
+      ],
+      "phone": 9577010990,
+      "name": "Sarika",
+      "location": "India"
+    }
+  ]
+}
